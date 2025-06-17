@@ -13,7 +13,7 @@ O jogo possui uma interface de usuário (UI) simples para facilitar a interaçã
 1. **Clone o repositório:**
 
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/AluoniLopes/Sudoku-dio
    ```
 
 2. **Abra o projeto no Visual Studio Code** ou na sua IDE Java preferida.
